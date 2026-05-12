@@ -68,4 +68,4 @@ Inspired by:
 
 Interested in building a premium website or interactive web experience?
 
-📩 Email: yourmail@gmail.com
+📩 Email: sudhakarrali516@gmail.com
