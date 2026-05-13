@@ -4,8 +4,8 @@
 
 Interested in premium portfolio websites, dashboard UIs, gamified web applications, or modern interactive experiences?
 
-📩 Email: sudhakarrali516@gmail.com / clientforgestudio@gmail.com
-🌐 Portfolio: https://netlify/sudhakarportfolio.com
+📩 Email: sudhakarrali516@gmail.com / clientforgestudio@gmail.com   
+🌐 Portfolio: https://sudhakar-portfolio06.netlify.app/
 
 ---
 
